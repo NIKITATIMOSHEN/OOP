@@ -1,0 +1,7 @@
+Light car; Current position (317.586,177.689); Destination position (305,150); Path to destination:317.586,177.689;317.586,177.689;317.586,177.689;
+Bus; Current position (30,20); Destination position (0,0); Ticks to wait on stop: 31 Path to destination:30,20;30,20;30,20;30,20;30,20; Schedule: 30,20;30,20;30,20;30,20;
+Bus; Current position (203.75,197.5); Destination position (0,0); Ticks to wait on stop: 31 Path to destination:203.75,197.5;203.75,197.5;203.75,197.5;203.75,197.5;203.75,197.5;203.75,197.5;203.75,197.5; Schedule: 203.75,197.5;203.75,197.5;203.75,197.5;203.75,197.5;
+Bus; Current position (30,20); Destination position (0,0); Ticks to wait on stop: 0 Path to destination:30,20;30,20; Schedule: 30,20;30,20;30,20;30,20;
+Heavy car; Current position (248,64); Destination position (206,259); Ticks to wait: 0 Path to destination:248,64;248,64;248,64;248,64;248,64;248,64;
+Motorcycle; Current position (312.5,266.25); Destination position (150,285); Ticks to wait on gas station: 0 Min ticks to next going to gas station: 0 Path to destination:312.5,266.25;312.5,266.25;312.5,266.25;312.5,266.25;312.5,266.25;312.5,266.25;312.5,266.25;
+Light car; Current position (309,218.5); Destination position (300,275); Path to destination:309,218.5;309,218.5;309,218.5;
