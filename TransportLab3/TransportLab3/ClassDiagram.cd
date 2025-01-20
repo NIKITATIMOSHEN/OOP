@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyMath" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAQAAAAAAgAAAAAAAAAABAAAAAAAAECAA=</HashCode>
+      <FileName>MyMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transport" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Transport::Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Transport.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAADIgAAAAQBACAAAgQEAAAAAAAAQAA=</HashCode>
+      <FileName>Transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightCar">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeavyCar" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAgAABCAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motorcycle">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAABAAAAAAAgAEgAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIIAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAgAQAA=</HashCode>
+      <FileName>Transport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgABAAAAAAAAAAAAAEAgCKAAAEAAAAAAAIQAA=</HashCode>
+      <FileName>World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Position" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>MyMath.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
