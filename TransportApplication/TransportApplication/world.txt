@@ -1,0 +1,6 @@
+Motorcycle; Current position (171.305,92.3901); Destination position (35,126.25); Ticks to wait on gas station: 0 Min ticks to next going to gas station: 0 Path to destination:171.305,92.3901;171.305,92.3901;171.305,92.3901;171.305,92.3901;171.305,92.3901;
+Heavy car; Current position (201.013,212.77); Destination position (120,275); Ticks to wait: 13 Path to destination:201.013,212.77;201.013,212.77;201.013,212.77;
+Motorcycle; Current position (288.183,102.913); Destination position (99.25,41.75); Ticks to wait on gas station: 0 Min ticks to next going to gas station: 0 Path to destination:288.183,102.913;288.183,102.913;288.183,102.913;288.183,102.913;288.183,102.913;
+Heavy car; Current position (286.859,232.734); Destination position (327.5,255.75); Ticks to wait: 0 Path to destination:286.859,232.734;286.859,232.734;286.859,232.734;286.859,232.734;
+Bus; Current position (194.046,50.4189); Destination position (0,0); Ticks to wait on stop: 0 Path to destination:194.046,50.4189;194.046,50.4189;194.046,50.4189;194.046,50.4189; Schedule: 194.046,50.4189;194.046,50.4189;194.046,50.4189;194.046,50.4189;
+Bus; Current position (223.651,51.8255); Destination position (0,0); Ticks to wait on stop: 0 Path to destination:223.651,51.8255;223.651,51.8255;223.651,51.8255; Schedule: 223.651,51.8255;223.651,51.8255;223.651,51.8255;223.651,51.8255;

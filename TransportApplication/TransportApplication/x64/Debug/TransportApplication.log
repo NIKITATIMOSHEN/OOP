@@ -1,0 +1,9 @@
+﻿  MainFile.cpp
+  Navigator.cpp
+  Transport.cpp
+  World.cpp
+C:\Users\nikti\Desktop\Усі роботи\TransportApplication\TransportApplication\World.cpp(65,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MainFile.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TransportApplication.vcxproj -> C:\Users\nikti\Desktop\Усі роботи\TransportApplication\x64\Debug\TransportApplication.exe

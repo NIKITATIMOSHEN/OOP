@@ -1,0 +1,6 @@
+E:\gitProjects\TransportApplication\TransportApplication\x64\Debug\TransportApplication.vcxproj.AssemblyReference.cache
+E:\gitProjects\TransportApplication\TransportApplication\x64\Debug\TransportApplication.MainForm.resources
+E:\gitProjects\TransportApplication\TransportApplication\x64\Debug\TransportApplication.vcxproj.GenerateResource.cache
+C:\Users\nikti\Desktop\Усі роботи\TransportApplication\TransportApplication\x64\Debug\TransportApplication.vcxproj.AssemblyReference.cache
+C:\Users\nikti\Desktop\Усі роботи\TransportApplication\TransportApplication\x64\Debug\TransportApplication.MainForm.resources
+C:\Users\nikti\Desktop\Усі роботи\TransportApplication\TransportApplication\x64\Debug\TransportApplication.vcxproj.GenerateResource.cache
